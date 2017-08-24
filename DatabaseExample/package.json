@@ -17,6 +17,7 @@
     "express-session": "^1.15.5",
     "http": "0.0.0",
     "mongodb": "^2.2.31",
+    "mongoose": "^4.11.8",
     "path": "^0.12.7",
     "serve-static": "^1.12.4"
   }
